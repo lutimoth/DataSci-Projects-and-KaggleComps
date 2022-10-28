@@ -1,17 +1,16 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,Jacked and Tan,87,87
-3,2.,MoJo,52,52
-4,3.,UORG,48,48
-5,4.,BobaBallers,27,27
-6,5.,Black Panthers,26,26
-7,6.,G7 Legends,21,21
-8,7.,Sopa de Mancos,17,17
-9,8.,SolarImpact,17,17
-10,9.,Elation Esports,17,17
-11,10.,TTN ALPHA,16,16
-12,11.,Los Nenuckles,12,12
-13,12.,Tin Roof Tacos,6,6
-14,13.,Krazy Krew,6,6
-15,14.,WRLDDomination,2,2
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,Jacked and Tan,87,87
+1,2.0,MoJo,52,52
+2,3.0,UORG,48,48
+3,4.0,BobaBallers,27,27
+4,5.0,Black Panthers,26,26
+5,6.0,G7 Legends,21,21
+6,7.0,Sopa de Mancos,17,17
+7,8.0,SolarImpact,17,17
+8,9.0,Elation Esports,17,17
+9,10.0,TTN ALPHA,16,16
+10,11.0,Los Nenuckles,12,12
+11,12.0,Tin Roof Tacos,6,6
+12,13.0,Krazy Krew,6,6
+13,14.0,WRLDDomination,2,2

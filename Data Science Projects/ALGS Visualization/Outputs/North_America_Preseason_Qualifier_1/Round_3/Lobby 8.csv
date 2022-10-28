@@ -1,23 +1,22 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,SUP,81,81
-3,2.,BAD,58,58
-4,3.,Unsigned Talent,55,55
-5,4.,OrgSignUs,27,27
-6,5.,IFE,26,26
-7,6.,Specter,24,24
-8,7.,MoJo,23,23
-9,8.,Blood Sport,23,23
-10,9.,Raised By Wolves,21,21
-11,10.,UORG,21,21
-12,11.,GearsKidsonApex,21,21
-13,12.,Jacked & Tan,21,21
-14,13.,C K 8,17,17
-15,14.,Black Panthers,14,14
-16,15.,VHS,9,9
-17,16.,Intertainers,4,4
-18,17.,G7 Legends,2,2
-19,18.,WPH,2,2
-20,19.,Elation Esports,1,1
-21,20.,Adonitology,0,0
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,SUP,81,81
+1,2.0,BAD,58,58
+2,3.0,Unsigned Talent,55,55
+3,4.0,OrgSignUs,27,27
+4,5.0,IFE,26,26
+5,6.0,Specter,24,24
+6,7.0,MoJo,23,23
+7,8.0,Blood Sport,23,23
+8,9.0,Raised By Wolves,21,21
+9,10.0,UORG,21,21
+10,11.0,GearsKidsonApex,21,21
+11,12.0,Jacked & Tan,21,21
+12,13.0,C K 8,17,17
+13,14.0,Black Panthers,14,14
+14,15.0,VHS,9,9
+15,16.0,Intertainers,4,4
+16,17.0,G7 Legends,2,2
+17,18.0,WPH,2,2
+18,19.0,Elation Esports,1,1
+19,20.0,Adonitology,0,0

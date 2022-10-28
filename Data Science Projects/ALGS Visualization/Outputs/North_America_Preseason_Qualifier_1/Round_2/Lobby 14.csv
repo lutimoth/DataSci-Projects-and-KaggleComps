@@ -1,23 +1,22 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,Dark Matter,60,60
-3,2.,Content Squad,49,49
-4,3.,Movement Temple,41,41
-5,4.,Blockbuster,39,39
-6,5.,Team Name,35,35
-7,6.,UNDD,29,29
-8,7.,TeamDreams,23,23
-9,8.,JOYBOYS,23,23
-10,9.,Plimbo,20,20
-11,10.,Wonderboys,18,18
-12,11.,NOXIOUS,18,18
-13,12.,PradoHouseCigar,18,18
-14,13.,Buds and Beer,17,17
-15,14.,Iron Giant,14,14
-16,15.,DarkRoyalNation,13,13
-17,16.,Evil Eye,10,10
-18,17.,Miso Hate Club,3,3
-19,18.,Spacelanders,2,2
-20,19.,Just The Boys,2,2
-21,20.,TAT,1,1
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,Dark Matter,60,60
+1,2.0,Content Squad,49,49
+2,3.0,Movement Temple,41,41
+3,4.0,Blockbuster,39,39
+4,5.0,Team Name,35,35
+5,6.0,UNDD,29,29
+6,7.0,TeamDreams,23,23
+7,8.0,JOYBOYS,23,23
+8,9.0,Plimbo,20,20
+9,10.0,Wonderboys,18,18
+10,11.0,NOXIOUS,18,18
+11,12.0,PradoHouseCigar,18,18
+12,13.0,Buds and Beer,17,17
+13,14.0,Iron Giant,14,14
+14,15.0,DarkRoyalNation,13,13
+15,16.0,Evil Eye,10,10
+16,17.0,Miso Hate Club,3,3
+17,18.0,Spacelanders,2,2
+18,19.0,Just The Boys,2,2
+19,20.0,TAT,1,1

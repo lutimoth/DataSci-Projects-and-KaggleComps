@@ -1,23 +1,22 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,2B1C,68,68
-3,2.,ForcesGG,65,65
-4,3.,PUBS,61,61
-5,4.,BOT,49,49
-6,5.,WASH,37,37
-7,6.,RISK,21,21
-8,7.,Hold The Door,20,20
-9,8.,Filii Martis,20,20
-10,9.,LNT,17,17
-11,10.,Yess,14,14
-12,11.,Anfield,12,12
-13,12.,ATRX,12,12
-14,13.,Shady Kings,11,11
-15,14.,UnderWorldGaming,11,11
-16,15.,Team_Supr3me,7,7
-17,16.,Tater,6,6
-18,17.,TheCerealKillers,6,6
-19,18.,RLP,4,4
-20,19.,NoGiveupGaming,2,2
-21,20.,Dark Matter,2,2
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,2B1C,68,68
+1,2.0,ForcesGG,65,65
+2,3.0,PUBS,61,61
+3,4.0,BOT,49,49
+4,5.0,WASH,37,37
+5,6.0,RISK,21,21
+6,7.0,Hold The Door,20,20
+7,8.0,Filii Martis,20,20
+8,9.0,LNT,17,17
+9,10.0,Yess,14,14
+10,11.0,Anfield,12,12
+11,12.0,ATRX,12,12
+12,13.0,Shady Kings,11,11
+13,14.0,UnderWorldGaming,11,11
+14,15.0,Team_Supr3me,7,7
+15,16.0,Tater,6,6
+16,17.0,TheCerealKillers,6,6
+17,18.0,RLP,4,4
+18,19.0,NoGiveupGaming,2,2
+19,20.0,Dark Matter,2,2

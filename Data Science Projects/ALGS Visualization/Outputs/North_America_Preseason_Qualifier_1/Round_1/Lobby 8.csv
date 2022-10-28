@@ -1,18 +1,17 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,SXG,107,107
-3,2.,AGLY,39,39
-4,3.,SBD,36,36
-5,4.,StepBros,35,35
-6,5.,gibbyhands,33,33
-7,6.,Team Sanitizer,29,29
-8,7.,CGG,23,23
-9,8.,Apex Quarentine,18,18
-10,9.,Bloodline,12,12
-11,10.,Club Penguin,11,11
-12,11.,Oasis,11,11
-13,12.,DRAINERS,10,10
-14,13.,SJ Esports,9,9
-15,14.,Christian Lads,8,8
-16,15.,Ethereal League,5,5
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,SXG,107,107
+1,2.0,AGLY,39,39
+2,3.0,SBD,36,36
+3,4.0,StepBros,35,35
+4,5.0,gibbyhands,33,33
+5,6.0,Team Sanitizer,29,29
+6,7.0,CGG,23,23
+7,8.0,Apex Quarentine,18,18
+8,9.0,Bloodline,12,12
+9,10.0,Club Penguin,11,11
+10,11.0,Oasis,11,11
+11,12.0,DRAINERS,10,10
+12,13.0,SJ Esports,9,9
+13,14.0,Christian Lads,8,8
+14,15.0,Ethereal League,5,5

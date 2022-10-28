@@ -1,23 +1,22 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,SXG,69,69
-3,2.,My Neck My Back,53,53
-4,3.,NBL,46,46
-5,4.,AGLY,32,32
-6,5.,Team Sanitizer,30,30
-7,6.,gibbyhands,23,23
-8,7.,On They Ayy,23,23
-9,8.,The Semi Pros,23,23
-10,9.,SBD,22,22
-11,10.,Titanes,20,20
-12,11.,Phantom Troupe,19,19
-13,12.,CGG,17,17
-14,13.,Dream,13,13
-15,14.,LadyandTheTramps,13,13
-16,15.,Bloodline,10,10
-17,16.,StepBros,7,7
-18,17.,Faithwithhope,7,7
-19,18.,Alfa Lobo,6,6
-20,19.,Apex Quarentine,1,1
-21,20.,Oasis,0,0
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,SXG,69,69
+1,2.0,My Neck My Back,53,53
+2,3.0,NBL,46,46
+3,4.0,AGLY,32,32
+4,5.0,Team Sanitizer,30,30
+5,6.0,gibbyhands,23,23
+6,7.0,On They Ayy,23,23
+7,8.0,The Semi Pros,23,23
+8,9.0,SBD,22,22
+9,10.0,Titanes,20,20
+10,11.0,Phantom Troupe,19,19
+11,12.0,CGG,17,17
+12,13.0,Dream,13,13
+13,14.0,LadyandTheTramps,13,13
+14,15.0,Bloodline,10,10
+15,16.0,StepBros,7,7
+16,17.0,Faithwithhope,7,7
+17,18.0,Alfa Lobo,6,6
+18,19.0,Apex Quarentine,1,1
+19,20.0,Oasis,0,0

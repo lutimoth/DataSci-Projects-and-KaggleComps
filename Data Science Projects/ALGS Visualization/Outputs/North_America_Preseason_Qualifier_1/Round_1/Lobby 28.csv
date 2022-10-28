@@ -1,18 +1,17 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,Content Squad,52,52
-3,2.,NOXIOUS,48,48
-4,3.,JOYBOYS,48,48
-5,4.,Spacelanders,37,37
-6,5.,TeamDreams,34,34
-7,6.,DarkRoyalNation,32,32
-8,7.,PradoHouseCigar,21,21
-9,8.,Team Name,19,19
-10,9.,Plimbo,19,19
-11,10.,UNDD,18,18
-12,11.,The Dusters,15,15
-13,12.,Vengeance,11,11
-14,13.,EXOTICK,9,9
-15,14.,Zime,5,5
-16,15.,Bulldogs,4,4
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,Content Squad,52,52
+1,2.0,NOXIOUS,48,48
+2,3.0,JOYBOYS,48,48
+3,4.0,Spacelanders,37,37
+4,5.0,TeamDreams,34,34
+5,6.0,DarkRoyalNation,32,32
+6,7.0,PradoHouseCigar,21,21
+7,8.0,Team Name,19,19
+8,9.0,Plimbo,19,19
+9,10.0,UNDD,18,18
+10,11.0,The Dusters,15,15
+11,12.0,Vengeance,11,11
+12,13.0,EXOTICK,9,9
+13,14.0,Zime,5,5
+14,15.0,Bulldogs,4,4

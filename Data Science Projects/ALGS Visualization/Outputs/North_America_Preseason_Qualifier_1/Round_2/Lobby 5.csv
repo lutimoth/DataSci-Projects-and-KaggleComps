@@ -1,23 +1,22 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,AST,124,124
-3,2.,Onyx,43,43
-4,3.,xD,40,40
-5,4.,LVG,39,39
-6,5.,CC,27,27
-7,6.,Dawn of Legends,23,23
-8,7.,BRONZELASTSEASON,21,21
-9,8.,Kraken,16,16
-10,9.,Aim Assist GG,15,15
-11,10.,Inglorious,15,15
-12,11.,Good Vibes,14,14
-13,12.,Lunas Superiores,12,12
-14,13.,Net,12,12
-15,14.,Poutine Taco,10,10
-16,15.,True SightENT,9,9
-17,16.,Washed Bois,8,8
-18,17.,Conquest Gaming,6,6
-19,18.,UMBC Retrievers,6,6
-20,19.,Jump out boys,3,3
-21,20.,Vendetta,1,1
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,AST,124,124
+1,2.0,Onyx,43,43
+2,3.0,xD,40,40
+3,4.0,LVG,39,39
+4,5.0,CC,27,27
+5,6.0,Dawn of Legends,23,23
+6,7.0,BRONZELASTSEASON,21,21
+7,8.0,Kraken,16,16
+8,9.0,Aim Assist GG,15,15
+9,10.0,Inglorious,15,15
+10,11.0,Good Vibes,14,14
+11,12.0,Lunas Superiores,12,12
+12,13.0,Net,12,12
+13,14.0,Poutine Taco,10,10
+14,15.0,True SightENT,9,9
+15,16.0,Washed Bois,8,8
+16,17.0,Conquest Gaming,6,6
+17,18.0,UMBC Retrievers,6,6
+18,19.0,Jump out boys,3,3
+19,20.0,Vendetta,1,1

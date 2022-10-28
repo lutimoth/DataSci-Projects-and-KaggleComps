@@ -1,18 +1,17 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,O TAMA,91,91
-3,2.,Meow Syndicate,52,52
-4,3.,SLS,33,33
-5,4.,Club Cobra,28,28
-6,5.,He’s One Shot,27,27
-7,6.,Siracha,27,27
-8,7.,SDO,25,25
-9,8.,DeGents,23,23
-10,9.,BrownieBoys,21,21
-11,10.,Ignition Team,16,16
-12,11.,WiseGuyz,16,16
-13,12.,Neutral Net,9,9
-14,13.,Chillz N Killz,8,8
-15,14.,ClemsonPurple,5,5
-16,15.,NaturalSelection,4,4
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,O TAMA,91,91
+1,2.0,Meow Syndicate,52,52
+2,3.0,SLS,33,33
+3,4.0,Club Cobra,28,28
+4,5.0,He’s One Shot,27,27
+5,6.0,Siracha,27,27
+6,7.0,SDO,25,25
+7,8.0,DeGents,23,23
+8,9.0,BrownieBoys,21,21
+9,10.0,Ignition Team,16,16
+10,11.0,WiseGuyz,16,16
+11,12.0,Neutral Net,9,9
+12,13.0,Chillz N Killz,8,8
+13,14.0,ClemsonPurple,5,5
+14,15.0,NaturalSelection,4,4

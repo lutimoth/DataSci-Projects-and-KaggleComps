@@ -1,17 +1,16 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,AST,86,86
-3,2.,CC,70,70
-4,3.,Onyx,49,49
-5,4.,Dawn of Legends,22,22
-6,5.,True SightENT,21,21
-7,6.,Net,17,17
-8,7.,BRONZELASTSEASON,17,17
-9,8.,UMBC Retrievers,17,17
-10,9.,Conquest Gaming,16,16
-11,10.,Jump out boys,14,14
-12,11.,Razen Gaming,13,13
-13,12.,EAB MODEL,9,9
-14,13.,BackStage,9,9
-15,14.,Clemson Orange,5,5
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,AST,86,86
+1,2.0,CC,70,70
+2,3.0,Onyx,49,49
+3,4.0,Dawn of Legends,22,22
+4,5.0,True SightENT,21,21
+5,6.0,Net,17,17
+6,7.0,BRONZELASTSEASON,17,17
+7,8.0,UMBC Retrievers,17,17
+8,9.0,Conquest Gaming,16,16
+9,10.0,Jump out boys,14,14
+10,11.0,Razen Gaming,13,13
+11,12.0,EAB MODEL,9,9
+12,13.0,BackStage,9,9
+13,14.0,Clemson Orange,5,5

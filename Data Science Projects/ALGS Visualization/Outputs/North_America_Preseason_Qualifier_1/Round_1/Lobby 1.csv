@@ -1,18 +1,17 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,CLX,76,76
-3,2.,OA,55,55
-4,3.,RCO,44,44
-5,4.,PWM,39,39
-6,5.,TEAM Workaholics,37,37
-7,6.,Insane Xboxsers,33,33
-8,7.,Chud Bungus,15,15
-9,8.,Ampedant,15,15
-10,9.,Team Shadow Wolf,14,14
-11,10.,JustSomeNewGuys,12,12
-12,11.,2B1R,12,12
-13,12.,ControllerLegend,12,12
-14,13.,Carbon Esports,7,7
-15,14.,Tooshbags,6,6
-16,15.,Aces Team,3,3
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,CLX,76,76
+1,2.0,OA,55,55
+2,3.0,RCO,44,44
+3,4.0,PWM,39,39
+4,5.0,TEAM Workaholics,37,37
+5,6.0,Insane Xboxsers,33,33
+6,7.0,Chud Bungus,15,15
+7,8.0,Ampedant,15,15
+8,9.0,Team Shadow Wolf,14,14
+9,10.0,JustSomeNewGuys,12,12
+10,11.0,2B1R,12,12
+11,12.0,ControllerLegend,12,12
+12,13.0,Carbon Esports,7,7
+13,14.0,Tooshbags,6,6
+14,15.0,Aces Team,3,3

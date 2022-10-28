@@ -1,42 +1,23 @@
-,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-0,StandingsPlacements and killsPoints,,,,,,,,,,,,,,
-1,Team,Total,"Round 1
-Round 1
-
-September 12, 2021 - 12:00 PDTWorld's Edge Sign Us Please Unlucky Neanderthals","Round 2
-Round 2
-
-September 12, 2021 - 12:35 PDTWorld's Edge Unsigned Talent Absolute Monarchy Nightmare","Round 3
-Round 3
-
-September 12, 2021 - 13:10 PDTWorld's Edge Absolute Monarchy Lonely Fans Estral Esports","Round 4
-Round 4
-
-September 12, 2021 - 13:45 PDTWorld's Edge Estral Esports Rolla Theory Washed","Round 5
-Round 5
-
-September 12, 2021 - 14:20 PDTWorld's Edge Los Hefes Unlucky Absolute Monarchy","Round 6
-Round 6
-
-September 12, 2021 - 14:55 PDTWorld's Edge Unlucky Aisle 5 pub stars",,,,,,,
-2,P,K,P,K,P,K,P,K,P,K,P,K,,,
-3,1.,AM,79,82,66,29,33,112,1414,190,33,37,1010,45,88
-4,2.,SUP,50,112,1414,131,22,151,00,63,33,92,33,73,66
-5,3.,Unlucky,50,29,44,102,00,102,11,121,00,29,66,112,44
-6,4.,Unsigned Talent,49,63,11,112,1212,180,00,141,1111,54,55,160,00
-7,5.,EST,42,131,22,121,00,37,22,112,1414,160,00,82,11
-8,6.,pub stars,41,141,55,190,11,73,1010,170,00,45,44,37,55
-9,7.,Aisle 5,38,45,44,170,44,45,00,131,00,121,00,29,99
-10,8.,WASH,37,54,88,82,00,170,11,37,88,131,00,63,33
-11,9.,NEAN,35,37,11,73,66,63,33,45,33,170,11,170,33
-12,10.,RT,33,92,55,54,11,92,55,29,22,102,-0,131,00
-13,11.,Los Hefes,30,151,00,111,33,160,00,111,33,112,55,151,33
-14,12.,LF,30,160,00,63,33,29,44,73,11,82,44,141,00
-15,13.,2B1C,27,111,55,141,33,121,33,151,00,141,33,54,44
-16,14.,BAD,27,73,00,200,00,131,55,54,33,63,66,92,00
-17,15.,Dark Matter,24,102,33,151,33,82,00,92,44,180,00,102,55
-18,16.,BOT,23,180,00,45,66,141,00,82,22,73,33,111,00
-19,17.,Sussy Bakas,22,121,00,92,77,54,44,160,00,190,00,121,33
-20,18.,NM,12,190,00,37,11,111,00,102,00,111,00,180,00
-21,19.,OrgSignUs,8,200,00,160,11,190,22,180,11,151,33,190,00
-22,20.,Blood Sport,1,170,00,180,11,200,00,200,00,-0,-0,-0,-0
+,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints,StandingsPlacements and killsPoints
+,Unnamed: 0_level_1,Team,Total,"Round 1 Round 1 September 12, 2021 - 12:00 PDTWorld's Edge Sign Us Please Unlucky Neanderthals","Round 1 Round 1 September 12, 2021 - 12:00 PDTWorld's Edge Sign Us Please Unlucky Neanderthals","Round 2 Round 2 September 12, 2021 - 12:35 PDTWorld's Edge Unsigned Talent Absolute Monarchy Nightmare","Round 2 Round 2 September 12, 2021 - 12:35 PDTWorld's Edge Unsigned Talent Absolute Monarchy Nightmare","Round 3 Round 3 September 12, 2021 - 13:10 PDTWorld's Edge Absolute Monarchy Lonely Fans Estral Esports","Round 3 Round 3 September 12, 2021 - 13:10 PDTWorld's Edge Absolute Monarchy Lonely Fans Estral Esports","Round 4 Round 4 September 12, 2021 - 13:45 PDTWorld's Edge Estral Esports Rolla Theory Washed","Round 4 Round 4 September 12, 2021 - 13:45 PDTWorld's Edge Estral Esports Rolla Theory Washed","Round 5 Round 5 September 12, 2021 - 14:20 PDTWorld's Edge Los Hefes Unlucky Absolute Monarchy","Round 5 Round 5 September 12, 2021 - 14:20 PDTWorld's Edge Los Hefes Unlucky Absolute Monarchy","Round 6 Round 6 September 12, 2021 - 14:55 PDTWorld's Edge Unlucky Aisle 5 pub stars","Round 6 Round 6 September 12, 2021 - 14:55 PDTWorld's Edge Unlucky Aisle 5 pub stars"
+,Unnamed: 0_level_2,Team,Total,P,K,P,K,P,K,P,K,P,K,P,K
+0,1.0,AM,79,82,66,29,33,112,1414,190,33,37,1010,45,88
+1,2.0,SUP,50,112,1414,131,22,151,0,63,33,92,33,73,66
+2,3.0,Unlucky,50,29,44,102,0,102,11,121,0,29,66,112,44
+3,4.0,Unsigned Talent,49,63,11,112,1212,180,0,141,1111,54,55,160,0
+4,5.0,EST,42,131,22,121,0,37,22,112,1414,160,0,82,11
+5,6.0,pub stars,41,141,55,190,11,73,1010,170,0,45,44,37,55
+6,7.0,Aisle 5,38,45,44,170,44,45,0,131,0,121,0,29,99
+7,8.0,WASH,37,54,88,82,0,170,11,37,88,131,0,63,33
+8,9.0,NEAN,35,37,11,73,66,63,33,45,33,170,11,170,33
+9,10.0,RT,33,92,55,54,11,92,55,29,22,102,0,131,0
+10,11.0,Los Hefes,30,151,0,111,33,160,0,111,33,112,55,151,33
+11,12.0,LF,30,160,0,63,33,29,44,73,11,82,44,141,0
+12,13.0,2B1C,27,111,55,141,33,121,33,151,0,141,33,54,44
+13,14.0,BAD,27,73,0,200,0,131,55,54,33,63,66,92,0
+14,15.0,Dark Matter,24,102,33,151,33,82,0,92,44,180,0,102,55
+15,16.0,BOT,23,180,0,45,66,141,0,82,22,73,33,111,0
+16,17.0,Sussy Bakas,22,121,0,92,77,54,44,160,0,190,0,121,33
+17,18.0,NM,12,190,0,37,11,111,0,102,0,111,0,180,0
+18,19.0,OrgSignUs,8,200,0,160,11,190,22,180,11,151,33,190,0
+19,20.0,Blood Sport,1,170,0,180,11,200,0,200,0,0,0,0,0

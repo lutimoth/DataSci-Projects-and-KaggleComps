@@ -1,17 +1,16 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,Aisle 5,102,102
-3,2.,ZERO,51,51
-4,3.,Lorax,39,39
-5,4.,Razer 3dge Black,28,28
-6,5.,NightMare Red,28,28
-7,6.,Exoterran Y,26,26
-8,7.,L1FT,21,21
-9,8.,Audio Visual,13,13
-10,9.,Swagnificent,12,12
-11,10.,Vertic,11,11
-12,11.,ObviouslyMX,11,11
-13,12.,BootyBoyz,9,9
-14,13.,KING OF HELL,8,8
-15,14.,Mist Gaming,5,5
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,Aisle 5,102,102
+1,2.0,ZERO,51,51
+2,3.0,Lorax,39,39
+3,4.0,Razer 3dge Black,28,28
+4,5.0,NightMare Red,28,28
+5,6.0,Exoterran Y,26,26
+6,7.0,L1FT,21,21
+7,8.0,Audio Visual,13,13
+8,9.0,Swagnificent,12,12
+9,10.0,Vertic,11,11
+10,11.0,ObviouslyMX,11,11
+11,12.0,BootyBoyz,9,9
+12,13.0,KING OF HELL,8,8
+13,14.0,Mist Gaming,5,5

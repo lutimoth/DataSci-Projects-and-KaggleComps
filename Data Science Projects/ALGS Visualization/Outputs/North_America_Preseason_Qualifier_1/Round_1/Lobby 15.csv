@@ -1,18 +1,17 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,YouLikeThatMate?,88,88
-3,2.,InevitableGaming,62,62
-4,3.,LMX,39,39
-5,4.,4Fun,37,37
-6,5.,oni,33,33
-7,6.,"You stay, I go",25,25
-8,7.,Anger Of Nubs,21,21
-9,8.,Unlucky Players,13,13
-10,9.,Eleventh Squad,12,12
-11,10.,Mexican Demons,12,12
-12,11.,Valhalla,10,10
-13,12.,The Bread Bears,8,8
-14,13.,Better Not Run,7,7
-15,14.,Merk and Co,7,7
-16,15.,Aztecas Mex Team,3,3
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,YouLikeThatMate?,88,88
+1,2.0,InevitableGaming,62,62
+2,3.0,LMX,39,39
+3,4.0,4Fun,37,37
+4,5.0,oni,33,33
+5,6.0,"You stay, I go",25,25
+6,7.0,Anger Of Nubs,21,21
+7,8.0,Unlucky Players,13,13
+8,9.0,Eleventh Squad,12,12
+9,10.0,Mexican Demons,12,12
+10,11.0,Valhalla,10,10
+11,12.0,The Bread Bears,8,8
+12,13.0,Better Not Run,7,7
+13,14.0,Merk and Co,7,7
+14,15.0,Aztecas Mex Team,3,3

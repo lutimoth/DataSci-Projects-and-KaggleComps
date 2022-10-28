@@ -1,17 +1,16 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,BW,102,102
-3,2.,Spooky Scary,66,66
-4,3.,HololiveDXD,26,26
-5,4.,6ide,23,23
-6,5.,ParkingLotBirds,21,21
-7,6.,Azakana,20,20
-8,7.,Bot Squad,17,17
-9,8.,Team Animo,17,17
-10,9.,The Not Squad,16,16
-11,10.,KingsVictoryClub,15,15
-12,11.,AVS,12,12
-13,12.,Remember Reach,11,11
-14,13.,Themeathouse,10,10
-15,14.,Team Raven,8,8
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,BW,102,102
+1,2.0,Spooky Scary,66,66
+2,3.0,HololiveDXD,26,26
+3,4.0,6ide,23,23
+4,5.0,ParkingLotBirds,21,21
+5,6.0,Azakana,20,20
+6,7.0,Bot Squad,17,17
+7,8.0,Team Animo,17,17
+8,9.0,The Not Squad,16,16
+9,10.0,KingsVictoryClub,15,15
+10,11.0,AVS,12,12
+11,12.0,Remember Reach,11,11
+12,13.0,Themeathouse,10,10
+13,14.0,Team Raven,8,8

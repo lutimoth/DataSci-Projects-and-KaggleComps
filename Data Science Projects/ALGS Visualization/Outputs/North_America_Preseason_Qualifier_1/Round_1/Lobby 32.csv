@@ -1,17 +1,16 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,BAD,75,75
-3,2.,IFE,75,75
-4,3.,OrgSignUs,36,36
-5,4.,SUP,35,35
-6,5.,Adonitology,28,28
-7,6.,Devils x Death,17,17
-8,7.,Shadow IllusionZ,15,15
-9,8.,Solus,14,14
-10,9.,ill,14,14
-11,10.,Aim Botz,14,14
-12,11.,We Better Word,13,13
-13,12.,GLO,12,12
-14,13.,JokersFC,4,4
-15,14.,MBM,4,4
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,BAD,75,75
+1,2.0,IFE,75,75
+2,3.0,OrgSignUs,36,36
+3,4.0,SUP,35,35
+4,5.0,Adonitology,28,28
+5,6.0,Devils x Death,17,17
+6,7.0,Shadow IllusionZ,15,15
+7,8.0,Solus,14,14
+8,9.0,ill,14,14
+9,10.0,Aim Botz,14,14
+10,11.0,We Better Word,13,13
+11,12.0,GLO,12,12
+12,13.0,JokersFC,4,4
+13,14.0,MBM,4,4

@@ -1,23 +1,22 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,MOAN,84,84
-3,2.,Aisle 5,56,56
-4,3.,ZERO,41,41
-5,4.,BQB,40,40
-6,5.,NightMare Red,35,35
-7,6.,Coconut Island,31,31
-8,7.,Lorax,25,25
-9,8.,Exoterran Y,21,21
-10,9.,Savage Misfits,17,17
-11,10.,Alliance Esports,16,16
-12,11.,Razer 3dge Black,10,10
-13,12.,AEG Esports,10,10
-14,13.,Vertic,10,10
-15,14.,L1FT,10,10
-16,15.,OnTheRocks,9,9
-17,16.,Swagnificent,9,9
-18,17.,Deathbox Hunters,7,7
-19,18.,Audio Visual,6,6
-20,19.,Sokudo Plus,5,5
-21,20.,Koatl esports,3,3
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,MOAN,84,84
+1,2.0,Aisle 5,56,56
+2,3.0,ZERO,41,41
+3,4.0,BQB,40,40
+4,5.0,NightMare Red,35,35
+5,6.0,Coconut Island,31,31
+6,7.0,Lorax,25,25
+7,8.0,Exoterran Y,21,21
+8,9.0,Savage Misfits,17,17
+9,10.0,Alliance Esports,16,16
+10,11.0,Razer 3dge Black,10,10
+11,12.0,AEG Esports,10,10
+12,13.0,Vertic,10,10
+13,14.0,L1FT,10,10
+14,15.0,OnTheRocks,9,9
+15,16.0,Swagnificent,9,9
+16,17.0,Deathbox Hunters,7,7
+17,18.0,Audio Visual,6,6
+18,19.0,Sokudo Plus,5,5
+19,20.0,Koatl esports,3,3

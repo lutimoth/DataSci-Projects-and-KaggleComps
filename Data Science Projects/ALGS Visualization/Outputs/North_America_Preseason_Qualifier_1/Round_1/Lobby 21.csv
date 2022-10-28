@@ -1,18 +1,17 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,JIN,70,70
-3,2.,NEAN,69,69
-4,3.,Spicy,55,55
-5,4.,Sussy Bakas,38,38
-6,5.,MexicanPowerTeam,22,22
-7,6.,TTN CRIO,18,18
-8,7.,JEAGERS,17,17
-9,8.,Anarchy,17,17
-10,9.,TeamHitX (missing),14,14
-11,10.,Int Us Hardef (missing),12,12
-12,11.,Rez Dogs,12,12
-13,12.,Stacked Pred,10,10
-14,13.,EthOS,9,9
-15,14.,All Outta Birds,6,6
-16,15.,Frequency,4,4
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,JIN,70,70
+1,2.0,NEAN,69,69
+2,3.0,Spicy,55,55
+3,4.0,Sussy Bakas,38,38
+4,5.0,MexicanPowerTeam,22,22
+5,6.0,TTN CRIO,18,18
+6,7.0,JEAGERS,17,17
+7,8.0,Anarchy,17,17
+8,9.0,TeamHitX (missing),14,14
+9,10.0,Int Us Hardef (missing),12,12
+10,11.0,Rez Dogs,12,12
+11,12.0,Stacked Pred,10,10
+12,13.0,EthOS,9,9
+13,14.0,All Outta Birds,6,6
+14,15.0,Frequency,4,4

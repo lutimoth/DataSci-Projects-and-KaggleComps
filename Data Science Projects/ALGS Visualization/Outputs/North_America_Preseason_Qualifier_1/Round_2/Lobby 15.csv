@@ -1,23 +1,22 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,Jacked and Tan,106,106
-3,2.,UORG,47,47
-4,3.,GearsKidsonApex,31,31
-5,4.,MoJo,29,29
-6,5.,Specter,29,29
-7,6.,Raised By Wolves,23,23
-8,7.,Black Panthers,22,22
-9,8.,Elation Esports,22,22
-10,9.,G7 Legends,18,18
-11,10.,WPH,18,18
-12,11.,4 Told,17,17
-13,12.,Onyx,17,17
-14,13.,Chefs,14,14
-15,14.,MoonStone,9,9
-16,15.,CastAways,6,6
-17,16.,Sopa de Mancos,5,5
-18,17.,SolarImpact,2,2
-19,18.,BobaBallers,2,2
-20,19.,Lights Out,0,0
-21,20.,TTN ALPHA,0,0
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,Jacked and Tan,106,106
+1,2.0,UORG,47,47
+2,3.0,GearsKidsonApex,31,31
+3,4.0,MoJo,29,29
+4,5.0,Specter,29,29
+5,6.0,Raised By Wolves,23,23
+6,7.0,Black Panthers,22,22
+7,8.0,Elation Esports,22,22
+8,9.0,G7 Legends,18,18
+9,10.0,WPH,18,18
+10,11.0,4 Told,17,17
+11,12.0,Onyx,17,17
+12,13.0,Chefs,14,14
+13,14.0,MoonStone,9,9
+14,15.0,CastAways,6,6
+15,16.0,Sopa de Mancos,5,5
+16,17.0,SolarImpact,2,2
+17,18.0,BobaBallers,2,2
+18,19.0,Lights Out,0,0
+19,20.0,TTN ALPHA,0,0

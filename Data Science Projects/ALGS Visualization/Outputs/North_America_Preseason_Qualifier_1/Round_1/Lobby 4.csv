@@ -1,18 +1,17 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,DNO,91,91
-3,2.,Controller Bots,41,41
-4,3.,ING,30,30
-5,4.,Nobody,28,28
-6,5.,Kox Gaming,26,26
-7,6.,Hardstuck10k,25,25
-8,7.,XcellentEra,24,24
-9,8.,UBC Blue,19,19
-10,9.,ROT,18,18
-11,10.,The Monke Men,16,16
-12,11.,INF,15,15
-13,12.,Lonesome Devils,12,12
-14,13.,Dub4Bub,9,9
-15,14.,Modern Esports,9,9
-16,15.,LegendaryEsports,8,8
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,DNO,91,91
+1,2.0,Controller Bots,41,41
+2,3.0,ING,30,30
+3,4.0,Nobody,28,28
+4,5.0,Kox Gaming,26,26
+5,6.0,Hardstuck10k,25,25
+6,7.0,XcellentEra,24,24
+7,8.0,UBC Blue,19,19
+8,9.0,ROT,18,18
+9,10.0,The Monke Men,16,16
+10,11.0,INF,15,15
+11,12.0,Lonesome Devils,12,12
+12,13.0,Dub4Bub,9,9
+13,14.0,Modern Esports,9,9
+14,15.0,LegendaryEsports,8,8

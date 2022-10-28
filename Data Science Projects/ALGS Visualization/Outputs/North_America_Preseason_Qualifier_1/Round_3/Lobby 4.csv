@@ -1,23 +1,22 @@
-,0,1,2,3
-0,Standings,,,
-1,Team,Total,Round 1,
-2,1.,YouLikeThatMate?,96,96
-3,2.,LMX,57,57
-4,3.,BP,35,35
-5,4.,Nest,32,32
-6,5.,oni,29,29
-7,6.,JustSomeWarriors,24,24
-8,7.,Dexterous,22,22
-9,8.,Vandals,21,21
-10,9.,Pickles,19,19
-11,10.,BBJ,18,18
-12,11.,CatDog,16,16
-13,12.,"You stay, I go",14,14
-14,13.,LuxuryRose,14,14
-15,14.,ASE,12,12
-16,15.,4Fun,9,9
-17,16.,TRP,8,8
-18,17.,TiTanes Cronos,8,8
-19,18.,Passivaggressive,7,7
-20,19.,TGJ,7,7
-21,20.,zyn,4,4
+,Standings,Standings,Standings,Standings
+,Team,Team.1,Total,Round 1
+0,1.0,YouLikeThatMate?,96,96
+1,2.0,LMX,57,57
+2,3.0,BP,35,35
+3,4.0,Nest,32,32
+4,5.0,oni,29,29
+5,6.0,JustSomeWarriors,24,24
+6,7.0,Dexterous,22,22
+7,8.0,Vandals,21,21
+8,9.0,Pickles,19,19
+9,10.0,BBJ,18,18
+10,11.0,CatDog,16,16
+11,12.0,"You stay, I go",14,14
+12,13.0,LuxuryRose,14,14
+13,14.0,ASE,12,12
+14,15.0,4Fun,9,9
+15,16.0,TRP,8,8
+16,17.0,TiTanes Cronos,8,8
+17,18.0,Passivaggressive,7,7
+18,19.0,TGJ,7,7
+19,20.0,zyn,4,4
