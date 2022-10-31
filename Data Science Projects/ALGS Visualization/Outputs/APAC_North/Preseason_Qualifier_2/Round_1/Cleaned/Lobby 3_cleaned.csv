@@ -1,13 +1,12 @@
-StandingsPlacements and killsPoints,Team,Total,"Round 1 Round 1 September 25, 2021 - 12:00 JSTWorld's Edge Team ENIGMA Hybrid Eclipse Team Nature","Round 1 Round 1 September 25, 2021 - 12:00 JSTWorld's Edge Team ENIGMA Hybrid Eclipse Team Nature","Round 2 Round 2 September 25, 2021 - 12:35 JSTWorld's Edge PiratesOfMirage Nesie Family RDO","Round 2 Round 2 September 25, 2021 - 12:35 JSTWorld's Edge PiratesOfMirage Nesie Family RDO","Round 3 Round 3 September 25, 2021 - 13:10 JSTWorld's Edge Lust for Light Gaming Snow RDO PiratesOfMirage","Round 3 Round 3 September 25, 2021 - 13:10 JSTWorld's Edge Lust for Light Gaming Snow RDO PiratesOfMirage","Round 4 Round 4 September 25, 2021 - 13:45 JSTWorld's Edge Hybrid Eclipse Team Nature Lust for Light Gaming Snow"
-Unnamed: 0_level_2,Team,Total,P,K,P,K,P,K,P
-1.0,HE,45,37,1010,63,44,92,0,112
-2.0,NAT,41,29,22,82,11,45,44,29
-3.0,RDO,40,102,0,37,66,29,77,73
-4.0,PiratesOfMirage,38,54,22,112,88,37,33,102
-5.0,ENG,30,112,77,54,0,82,0,63
-6.0,LLGS,28,92,11,92,0,112,44,37
-7.0,IBSG,25,45,44,102,0,54,55,45
-8.0,NFM,22,82,11,29,44,102,0,54
-9.0,GEMI,15,63,0,73,22,73,22,92
-10.0,Serpens,15,73,0,45,11,63,11,82
-11.0,SAEKO,0,200,0,200,0,200,0,200
+Standing,Team,Total,P,K,P,K,P,K,P,K
+1.0,HE,45,3,10,6,4,9,0,1,7
+2.0,NAT,41,2,2,8,1,4,4,2,9
+3.0,RDO,40,10,0,3,6,2,7,7,6
+4.0,PiratesOfMirage,38,5,2,1,8,3,3,10,0
+5.0,ENG,30,1,7,5,0,8,0,6,2
+6.0,LLGS,28,9,1,9,0,1,4,3,0
+7.0,IBSG,25,4,4,10,0,5,5,4,0
+8.0,NFM,22,8,1,2,4,10,0,5,0
+9.0,GEMI,15,6,0,7,2,7,2,9,0
+10.0,Serpens,15,7,0,4,1,6,1,8,0
+11.0,SAEKO,0,20,0,20,0,20,0,20,0
