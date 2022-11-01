@@ -81,7 +81,7 @@ The data visualization was done using Tableau! I created a wide variety of visua
 
 While the full visualization tells a story of the journey through the ALGS tournament, I believe this screenshot captures some of the excitement. It displays the overarching journey as the Preseason Qualifiers go on. Round 1 is a small group of early venturers with Rounds 2 and 3 gathering more force. With Round 4 being one of the largest groups as the public makes their final attempts to play amongst the greats.
 
-[Preseason Qualifiers](images/tableau_pql.png)
+![Preseason Qualifiers](images/tableau_pql.png)
 
 
 Thank you for taking a look at my repository. This is one of my favorite projects yet as I got to work with web scraping and a new kind of data.
