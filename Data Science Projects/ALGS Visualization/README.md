@@ -1,6 +1,7 @@
-# ALGS Data Scraping Project
+![Apex Legends Global Series Logo](./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg)
+# Apex Legends Global Series Data Scraping Project
 
-This project aims to scrape data from the ALGS Year 2 season for the purposes of data visualization and submission into the IronViz competition.
+This project scraped web data from the ALGS Year 2 season for the purposes of data visualization and submission into the IronViz competition.
 
 The data is openly available on [Liquidpedia ALGS 2021-2022 Data](https://liquipedia.net/apexlegends/Apex_Legends_Global_Series/2022/Championship) and is publically available. I scraped the data so that it can be used in Tableau for data visualization. The final visualization can be found at the following link to my [IronViz Tableau Public link](https://public.tableau.com/app/profile/timothy.lu3564/viz/TimothyLu_ALGS_IronVizFinal/algs?publish=yes).
 
