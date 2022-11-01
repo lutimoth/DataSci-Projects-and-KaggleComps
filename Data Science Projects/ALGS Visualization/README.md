@@ -36,7 +36,9 @@ Pandas' `read_html` creates a list of *all* tables in the given URL. I then foun
 
 I took this list of tables and converted them to dataframes and then saved them in CSV files. Thanks to my function, I was able to iterate by region and by round in other to gather data quickly. I found a few notable exceptions in some regions where the table numbers were slightly different. I adapted to those and manually collected the few exceptions. 
 
-![](images/data_scrape_codesnip.png)
+<p align="center">
+  <img src="./images/data_scrape_codesnip.png" width=75% height=75%>
+</p>
 
 I'll briefly mention one example with the Preseason Qualifier as the other processes were similar. I was able to iterate by each region, then by each preseason qualifier round (there were 4), then collect the data for each preseason qualifier round (usually 4-6 rounds), and collect the data for each lobby in that round (up to 32 lobbies ending with 1 lobby for the final).
 
