@@ -10,7 +10,7 @@ The data is openly available on [Liquidpedia ALGS 2021-2022 Data](https://liquip
 
 ## ALGS Overview
 
-The ALGS tournament is played in the game Apex Legends, an on-line Battle Royale developed by Respawn and published by Electronic Arts. This tournament has multiple stages held on-line in multiple regions simultaneously leading up to 2 major in-person LAN tournaments. 
+The ALGS tournament is played in the game Apex Legends, an on-line Battle Royale developed by Respawn and published by Electronic Arts. This tournament has multiple stages held on-line in multiple regions simultaneously leading up to 2 major in-person LAN tournaments. The great joy of the tournament is that it is open to the public. Anyone can sign up and join ALGS for a chance teo play in those major LANs for prize pools of up to $500,000. We see the journey from preseason qualifiers with non-pros playing each weekend to get ALGS points to get their chance, through Challenger Circuits as teams are making their final push to qualify for ALGS, finally culminating in the first Playoffs LAN in Stockholm, Sweden. The excitement continues as those playoffs take us into Split 2 Challenger Circuit and the surviving teams play through Last-Chance qualifiers for their chance to be part of the ALGS Championships in Raleigh, North Carolina.
 
 The 5 major regions are: North America, South America, EU/Middle East, Asia-Pacific North, Asia-Pacific South.
 
@@ -75,7 +75,13 @@ I repeated this process by working outwards. For example, I started with each ro
 
 I then repeatead this process for each game series such as Challenger Circuit, Playoffs, and Championships. While I wrote a custom function for the preseason qualifiers, there were so many little caveats for each game series I manually created the for loops. I caught a few exceptions here with the regions and had to go back and manually fix some minor discrepancies but overall I was able to combine all the regions into one large dataset which allowed me to visualize the data.
 
-
 ## [Data Visualization Process](https://public.tableau.com/app/profile/timothy.lu3564/viz/TimothyLu_ALGS_IronVizFinal/algs?publish=yes)
 
-The data visualization was done using Tableau.
+The data visualization was done using Tableau! I created a wide variety of visualizations and analysis for the data. You can find the final product published on Tableau Public under the title of [TimothyLu_ALGS_IronVizFinal](https://public.tableau.com/app/profile/timothy.lu3564/viz/TimothyLu_ALGS_IronVizFinal/algs?publish=yes). My analysis is primarily visual as I continue to dive deeper into this data set. I make statistical comparisons between regions and craft a story which tells the journey from preseason to Championship for all the regions and the top teams.
+
+While the full visualization tells a story of the journey through the ALGS tournament, I believe this screenshot captures some of the excitement. It displays the overarching journey as the Preseason Qualifiers go on. Round 1 is a small group of early venturers with Rounds 2 and 3 gathering more force. With Round 4 being one of the largest groups as the public makes their final attempts to play amongst the greats.
+
+[Preseason Qualifiers](images/tableau_pql.png)
+
+
+Thank you for taking a look at my repository. This is one of my favorite projects yet as I got to work with web scraping and a new kind of data.
