@@ -4,12 +4,26 @@
 
 # Apex Legends Global Series Data Scraping Project
 
-This project scraped web data from the ALGS Year 2 season for the purposes of data visualization and submission into the IronViz competition.
+This project scraped web data from the Apex Legends Global Series (ALGS) Year 2 (spanning 2021-2022) season for the purposes of data visualization and submission into the IronViz competition.
 
-The data is openly available on [Liquidpedia ALGS 2021-2022 Data](https://liquipedia.net/apexlegends/Apex_Legends_Global_Series/2022/Championship) and is publically available. I scraped the data so that it can be used in Tableau for data visualization. The final visualization can be found at the following link to my [IronViz Tableau Public link](https://public.tableau.com/app/profile/timothy.lu3564/viz/TimothyLu_ALGS_IronVizFinal/algs?publish=yes).
+The data is openly available on [Liquidpedia ALGS 2021-2022 Data](https://liquipedia.net/apexlegends/Apex_Legends_Global_Series/2022/Championship). I scraped the data for the purposes of creating visualizations in Tableau. The final visualization can be found at the following link to my [IronViz Tableau Public link](https://public.tableau.com/app/profile/timothy.lu3564/viz/TimothyLu_ALGS_IronVizFinal/algs?publish=yes).
+
+## ALGS Overview
+
+The ALGS tournament is played in the game Apex Legends, an on-line Battle Royale developed by Respawn and published by Electronic Arts. This tournament has multiple stages held on-line in multiple regions simultaneously leading up to 2 major in-person LAN tournaments. 
+
+There are 4 major components to ALGS:
+
+* Preseason Qualifiers
+* Split 1
+* Split 2
+* Last-Chance Qualifiers -> Championship
+
+To collect the data efficiently, I started by breaking down the overall structure of the ALGS tournament then took a methodical approach to collecting the data. 
+
 
 ## Data Scraping Process
-I built out the scraper initially using BeautifulSoup as a means of understanding the overall structure of the website. This was followed by utilizing Pandas's built-in html reader in order to more efficiently gather tables.
+I built out the scraper initially using BeautifulSoup as a means of understanding the overall structure of the website. This was followed by utilizing Pandas's built-in `read_html` function in order to more efficiently gather tables.
 
 I wrote custom functions which would grab all the tables from the Liquidpedia website and convert them to Pandas dataframes before saving them to a csv file.
 
