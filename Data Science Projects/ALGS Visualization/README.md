@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg" width=60% height=60%>
+  <img src="./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg" width=70% height=70%>
 </p>
 
 # Apex Legends Global Series Data Scraping Project
@@ -37,7 +37,7 @@ Pandas' `read_html` creates a list of *all* tables in the given URL. I then foun
 I took this list of tables and converted them to dataframes and then saved them in CSV files. Thanks to my function, I was able to iterate by region and by round in other to gather data quickly. I found a few notable exceptions in some regions where the table numbers were slightly different. I adapted to those and manually collected the few exceptions. 
 
 <p align="center">
-  <img src="./images/data_scrape_codesnip.png" width=75% height=75%>
+  <img src="./images/data_scrape_codesnip.png" width=80% height=80%>
 </p>
 
 I'll briefly mention one example with the Preseason Qualifier as the other processes were similar. I was able to iterate by each region, then by each preseason qualifier round (there were 4), then collect the data for each preseason qualifier round (usually 4-6 rounds), and collect the data for each lobby in that round (up to 32 lobbies ending with 1 lobby for the final).
@@ -45,7 +45,7 @@ I'll briefly mention one example with the Preseason Qualifier as the other proce
 After collecting the data, I noticed that for some tables the website actually contained 2 sets of data. Teams get points for placement (where they finish the game) and kills. The tables were designed to toggle between either showing placement or the points given for placement. This caused duplicate data. I then set a process in place that would clean that data as shown below. 
 
 <p align="center">
-  <img src="./images/kp_cleanup.png" width=75% height=75%>
+  <img src="./images/kp_cleanup.png" width=85% height=85%>
 </p>
 
 
@@ -58,7 +58,7 @@ Similar to the data gather process, I was able to iterate by region, playing rou
 Here is a short example of me using my function for cleaning, you can find the function in the notebook!
 
 <p align="center">
-  <img src="./images/data_cleanup.png", width=80%>
+  <img src="./images/data_cleanup.png", width=90%>
 </p>
 
 
@@ -70,7 +70,7 @@ I grouped the csv files in multiple stages. First by each individual round, then
 I repeated this process by working outwards. For example, I started with each round of Preseason Qualifiers (Round 1 up to Finals) making on large Preseason Qualifer file. Then I combined all the Preseason qualifiers for a region (making sure to create a column with that label). I then combined all the preseason qualifier regions together into one massive file (making sure to label the region each file came from). You can see one such snippet below.
 
 <p align="center">
-  <img src="./images/data_grouping.png", width=80%>
+  <img src="./images/data_grouping.png", width=90%>
 </p>
 
 I then repeatead this process for each game series such as Challenger Circuit, Playoffs, and Championships. While I wrote a custom function for the preseason qualifiers, there were so many little caveats for each game series I manually created the for loops. I caught a few exceptions here with the regions and had to go back and manually fix some minor discrepancies but overall I was able to combine all the regions into one large dataset which allowed me to visualize the data.
