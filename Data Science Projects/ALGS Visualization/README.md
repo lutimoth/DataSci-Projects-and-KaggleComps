@@ -63,6 +63,19 @@ Here is a short example of me using my function for cleaning, you can find the f
 
 
 ## [Data Grouping Process](DataScrape/ALGS%20Data%20Grouping.ipynb)
-I grouped the csv files in multiple stages. First by each individual game, then by region, then by all the regions together.
+In order to make the visualization process easier, I wanted to combine all the data together into one long format. Having a bunch of individual files would not work for our data visualization. Since I cleaned the data, it was more straightforward to combine them since they all shared the same columns. The code for that can be foudn in my [ALGS Data Grouping notebook](DataScrape/ALGS%20Data%20Grouping.ipynb).
 
-Some of the regions had slightly different formats and thus slightly different processes for grouping.
+I grouped the csv files in multiple stages. First by each individual round, then by region, then by all the regions together. I started with Preseason Qualifiers. This took a bit of working out. The first Preseason Qualifier was formatted differently from the rest. However, the rest of the preseason qualifiers were all formatted the same way. The general process was to go into each folder of cleaned data, read the CSV, add a column labeling which lobby the games were in, and then concatting it into one longer dataframe before saving it again.
+
+I repeated this process by working outwards. For example, I started with each round of Preseason Qualifiers (Round 1 up to Finals) making on large Preseason Qualifer file. Then I combined all the Preseason qualifiers for a region (making sure to create a column with that label). I then combined all the preseason qualifier regions together into one massive file (making sure to label the region each file came from). You can see one such snippet below.
+
+<p align="center">
+  <img src="./images/data_grouping.png">
+</p>
+
+I then repeatead this process for each game series such as Challenger Circuit, Playoffs, and Championships. While I wrote a custom function for the preseason qualifiers, there were so many little caveats for each game series I manually created the for loops. I caught a few exceptions here with the regions and had to go back and manually fix some minor discrepancies but overall I was able to combine all the regions into one large dataset which allowed me to visualize the data.
+
+
+## [Data Visualization Process](https://public.tableau.com/app/profile/timothy.lu3564/viz/TimothyLu_ALGS_IronVizFinal/algs?publish=yes)
+
+The data visualization was done using Tableau.
