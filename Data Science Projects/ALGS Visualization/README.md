@@ -29,8 +29,8 @@ There are 4 major components in ALGS:
 
 To collect the data efficiently, I started by breaking down the overall structure of the ALGS tournament then took a methodical approach to collecting the data. This leads us to the process of data scraping.
 
-## Data Scraping Process
-I built out the scraper initially using BeautifulSoup as a means of understanding the overall structure of the website. This was followed by utilizing Pandas's built-in `read_html` function in order to more efficiently gather tables. 
+## [Data Scraping Process](DataScrape/ALGS%20Liquidpedia%20Data%20Scrape.ipynb)
+I built out the scraper initially using BeautifulSoup as a means of understanding the overall structure of the website. This was followed by utilizing Pandas's built-in `read_html` function in order to more efficiently gather tables. All of the code used can be found in the [ALGS Liquidpedia Data Scrape notebook](DataScrape/ALGS%20Liquidpedia%20Data%20Scrape.ipynb).
 
 Pandas' `read_html` creates a list of *all* tables in the given URL. I then found which items in that list were relevant. Since some pages contained multiple tables, I would have to iterate through these tables. Since the process was so repetitive, I wrote a custom function that would capture most cases and greatly speed up the process of collection. There were some exceptions such as the "finals" having only one table. 
 
@@ -44,12 +44,19 @@ I'll briefly mention one example with the Preseason Qualifier as the other proce
 
 After collecting the data, I noticed that for some tables the website actually contained 2 sets of data. Teams get points for placement (where they finish the game) and kills. The tables were designed to toggle between either showing placement or the points given for placement. This caused duplicate data. I then set a process in place that would clean that data as shown below. 
 
-## Data Cleaning Process
-I cleaned the tables by remove extraneous columns and renaming column titles so that the tables can be grouped together more easily.
+<p align="center">
+  <img src="./images/kp_cleanup.png" width=75% height=75%>
+</p>
 
-There were different cleaning processes depending on the table.
 
-## Data Grouping Process
+## [Data Cleaning Process](DataScrape/ALGS%20Data%20Grouping.ipynb)
+
+Since the data was collected off of a website, there were definitely going to be a few things that I would have to do to make the data more usable. I cleaned the data by remove extraneous columns and renaming column titles so that the tables can be grouped together more easily. Thankfully, the tables were pretty consistently formatted so I was able to build out two functions which could quickly help me clean up the data. 
+
+Similar to the data gather process, I was able to iterate by region, playing round, and individual files using `for` loops to speed up the process. I did have to make a few tweaks for a few regions and some rounds. The Preseason Qualifier 1 round was formatted different from the other Preseason Qualifiers and the bracket stages had a slightly different structure as well. It was a great exercise in catching edge cases.
+
+
+## [Data Grouping Process](DataScrape/ALGS%20Data%20Grouping.ipynb)
 I grouped the csv files in multiple stages. First by each individual game, then by region, then by all the regions together.
 
 Some of the regions had slightly different formats and thus slightly different processes for grouping.
