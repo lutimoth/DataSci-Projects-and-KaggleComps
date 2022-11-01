@@ -1,4 +1,4 @@
-<img src="./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg" width=50% height=50%>
+<img src="./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg" width=60% height=60% align="center">
 
 # Apex Legends Global Series Data Scraping Project
 
