@@ -58,7 +58,7 @@ Similar to the data gather process, I was able to iterate by region, playing rou
 Here is a short example of me using my function for cleaning, you can find the function in the notebook!
 
 <p align="center">
-  <img src="./images/data_cleanup.png">
+  <img src="./images/data_cleanup.png", width=80%>
 </p>
 
 
@@ -70,7 +70,7 @@ I grouped the csv files in multiple stages. First by each individual round, then
 I repeated this process by working outwards. For example, I started with each round of Preseason Qualifiers (Round 1 up to Finals) making on large Preseason Qualifer file. Then I combined all the Preseason qualifiers for a region (making sure to create a column with that label). I then combined all the preseason qualifier regions together into one massive file (making sure to label the region each file came from). You can see one such snippet below.
 
 <p align="center">
-  <img src="./images/data_grouping.png">
+  <img src="./images/data_grouping.png", width=80%>
 </p>
 
 I then repeatead this process for each game series such as Challenger Circuit, Playoffs, and Championships. While I wrote a custom function for the preseason qualifiers, there were so many little caveats for each game series I manually created the for loops. I caught a few exceptions here with the regions and had to go back and manually fix some minor discrepancies but overall I was able to combine all the regions into one large dataset which allowed me to visualize the data.
