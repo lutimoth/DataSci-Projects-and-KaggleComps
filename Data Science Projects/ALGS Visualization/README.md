@@ -27,15 +27,16 @@ There are 4 major components in ALGS:
 
 </p>
 
-
-
 To collect the data efficiently, I started by breaking down the overall structure of the ALGS tournament then took a methodical approach to collecting the data. This leads us to the process of data scraping.
 
-
 ## Data Scraping Process
-I built out the scraper initially using BeautifulSoup as a means of understanding the overall structure of the website. This was followed by utilizing Pandas's built-in `read_html` function in order to more efficiently gather tables.
+I built out the scraper initially using BeautifulSoup as a means of understanding the overall structure of the website. This was followed by utilizing Pandas's built-in `read_html` function in order to more efficiently gather tables. 
 
-I wrote custom functions which would grab all the tables from the Liquidpedia website and convert them to Pandas dataframes before saving them to a csv file.
+Pandas' `read_html` creates a list of *all* tables in the given URL. I then found which items in that list were relevant. Since some pages contained multiple tables, I would have to iterate through these tables. Since the process was so repetitive, I wrote a custom function that would capture most cases and greatly speed up the process of collection. There were some exceptions such as the "finals" having only one table. 
+
+I took this list of tables and converted them to dataframes and then saved them in CSV files. Thanks to my function, I was able to iterate by region and by round in other to gather data quickly. I found a few notable exceptions in some regions where the table numbers were slightly different. I adapted to those and manually collected the few exceptions. 
+
+I'll briefly mention one example with the Preseason Qualifier as the other processes were similar. I was able to iterate by each region, then by each preseason qualifier round (there were 4), then collect the data for each preseason qualifier round (usually 4-6 rounds), and collect the data for each lobby in that round (up to 32 lobbies ending with 1 lobby for the final).
 
 ## Data Cleaning Process
 I cleaned the tables by remove extraneous columns and renaming column titles so that the tables can be grouped together more easily.
