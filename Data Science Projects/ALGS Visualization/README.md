@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg" width=70% height=70%>
+  <img src="./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg" width=80% height=80%>
 </p>
 
 # Apex Legends Global Series Data Scraping Project
