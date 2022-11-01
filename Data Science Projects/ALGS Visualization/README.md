@@ -49,11 +49,17 @@ After collecting the data, I noticed that for some tables the website actually c
 </p>
 
 
-## [Data Cleaning Process](DataScrape/ALGS%20Data%20Grouping.ipynb)
+## [Data Cleaning Process](DataScrape/ALGS%20Data%20Cleaning.ipynb)
 
-Since the data was collected off of a website, there were definitely going to be a few things that I would have to do to make the data more usable. I cleaned the data by remove extraneous columns and renaming column titles so that the tables can be grouped together more easily. Thankfully, the tables were pretty consistently formatted so I was able to build out two functions which could quickly help me clean up the data. 
+Since the data was collected off of a website, there were definitely going to be a few things that I would have to do to make the data more usable. I cleaned the data by remove extraneous columns and renaming column titles so that the tables can be grouped together more easily. Thankfully, the tables were pretty consistently formatted so I was able to build out two functions which could quickly help me clean up the data. The notebook containing the code can be found in the [ALGS Data Cleaning notebook](DataScrape/ALGS%20Data%20Cleaning.ipynb).
 
 Similar to the data gather process, I was able to iterate by region, playing round, and individual files using `for` loops to speed up the process. I did have to make a few tweaks for a few regions and some rounds. The Preseason Qualifier 1 round was formatted different from the other Preseason Qualifiers and the bracket stages had a slightly different structure as well. It was a great exercise in catching edge cases.
+
+Here is a short example of me using my function for cleaning, you can find the function in the notebook!
+
+<p align="center">
+  <img src="./images/data_cleanup.png">
+</p>
 
 
 ## [Data Grouping Process](DataScrape/ALGS%20Data%20Grouping.ipynb)
