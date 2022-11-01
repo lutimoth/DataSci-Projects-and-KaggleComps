@@ -12,14 +12,24 @@ The data is openly available on [Liquidpedia ALGS 2021-2022 Data](https://liquip
 
 The ALGS tournament is played in the game Apex Legends, an on-line Battle Royale developed by Respawn and published by Electronic Arts. This tournament has multiple stages held on-line in multiple regions simultaneously leading up to 2 major in-person LAN tournaments. 
 
-There are 4 major components to ALGS:
+The 5 major regions are: North America, South America, EU/Middle East, Asia-Pacific North, Asia-Pacific South.
 
-* Preseason Qualifiers
-* Split 1
-* Split 2
-* Last-Chance Qualifiers -> Championship
+There are 4 major components in ALGS:
 
-To collect the data efficiently, I started by breaking down the overall structure of the ALGS tournament then took a methodical approach to collecting the data. 
+<p align="center">
+
+|  ALGS Stage        |                    Amount of Games           |
+|:------------------:| :-------------------------------------------:|
+| Preseason Qualifier| Multiple weeks of gaming to qualify          |
+| Split 1            | Challenger Circuit, Playoffs, Pro League     |
+| Split 2            | Challenger Circuit, Pro League, LAN Playoffs |
+| Championship       | Last-Chance Qualifier, LAN Championship      | 
+
+</p>
+
+
+
+To collect the data efficiently, I started by breaking down the overall structure of the ALGS tournament then took a methodical approach to collecting the data. This leads us to the process of data scraping.
 
 
 ## Data Scraping Process
