@@ -1,4 +1,5 @@
-![Apex Legends Global Series Logo](./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg | height = 600)
+<img src="./images/algs-2-0-featured-image.jpg.adapt.crop16x9.1023w.jpg" width=50% height=50%>
+
 # Apex Legends Global Series Data Scraping Project
 
 This project scraped web data from the ALGS Year 2 season for the purposes of data visualization and submission into the IronViz competition.
