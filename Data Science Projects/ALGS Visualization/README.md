@@ -7,9 +7,14 @@ The data is openly available on [Liquidpedia ALGS 2021-2022 Data](https://liquip
 ## Data Scraping Process
 I built out the scraper initially using BeautifulSoup as a means of understanding the overall structure of the website. This was followed by utilizing Pandas's built-in html reader in order to more efficiently gather tables.
 
-I wrote custom functions which would grab all the tables from the Liquidpedia website and then 
+I wrote custom functions which would grab all the tables from the Liquidpedia website and convert them to Pandas dataframes before saving them to a csv file.
 
 ## Data Cleaning Process
+I cleaned the tables by remove extraneous columns and renaming column titles so that the tables can be grouped together more easily.
 
+There were different cleaning processes depending on the table.
 
 ## Data Grouping Process
+I grouped the csv files in multiple stages. First by each individual game, then by region, then by all the regions together.
+
+Some of the regions had slightly different formats and thus slightly different processes for grouping.
